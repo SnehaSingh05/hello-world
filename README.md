@@ -1,3 +1,3 @@
 # hello-world
-Hello People!
+Hello Guys!
 This is Sneha.
